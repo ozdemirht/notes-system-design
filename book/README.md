@@ -1,12 +1,10 @@
-## Template README
-> Remove all of the above after you've taken this template and followed the instructions. The following lines are a template for your own README
 
 # `Notes on Distributed System Design`
 
 `<description of book's content en target audience>`
 
 ## Contributors
-- `<list authors>`
+- `Tim Ozdemir, PhD, PMP`
 
 ## Reuse content
 Feel free to reuse this content or contribute to it. Please give appropriate credit, provide a link to the license, and indicate if changes were made ([CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/))
