@@ -1,7 +1,7 @@
 
 # `Notes on Distributed System Design`
 
-`<description of book's content en target audience>`
+`Collection of Notes on Distributed System Design for software engineers`
 
 ## Contributors
 - `Tim Ozdemir, PhD, PMP`
