@@ -1,7 +1,7 @@
 ## Template README
 > Remove all of the above after you've taken this template and followed the instructions. The following lines are a template for your own README
 
-# `<Book title>`
+# `Notes on Distributed System Design`
 
 `<description of book's content en target audience>`
 
